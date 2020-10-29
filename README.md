@@ -1,5 +1,4 @@
-# Análise dos dados do Enem na Bahia
-Esse projeto é parte da semana de Imersão de dados realizado pela [Alura](https://www.alura.com.br/imersao-dados) do dia 19/10/2020 até 27/10/2020, nele há os notebooks das aulas que participei durante esses dias e também o desafio que submeti pra competição deles (após submeter o notebook eu fiz algumas atualizações, por questões de estudo).
+# ANÁLISE DOS DADOS DO ENEM NA BAHIA NOS ANOS DE 2017, 2018 E 2019
 
 #### -- Status do Projeto: [:heavy_check_mark:]
 
